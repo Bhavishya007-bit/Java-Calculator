@@ -45,20 +45,8 @@ public class HW1class3{
                 }
                 break;
             default:
-                System.out.println("Invalid choice. Please select a number between 1 and 5.");
-        
-
+                System.out.println("Invalid choice. Please select a number between 1 and 5.");  
         }
-
-
-
-
-
         sc.close();
     }
-
-
-
-
-
 }
